@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../LQ-Unity/Assets/Scripts/MVC/Controllers/SelectablePrefabUIListController.cs">
+    <Files>
+      <File FileName="../LQ-Unity/Assets/Scripts/MVC/Controllers/SelectablePrefabUI.cs" Line="1" Column="1" />
+      <File FileName="../LQ-Unity/Assets/Scripts/MVC/Controllers/SelectablePrefabUIListController.cs" Line="1" Column="1" />
+      <File FileName="../LQ-Unity/Assets/Scripts/MVC/Views/SelectablePrefabUIListView.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
